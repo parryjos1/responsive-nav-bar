@@ -4,6 +4,8 @@ import './nav.css';
 import SideDrawer from './SideDraw/SideDraw.jsx';
 import Backdrop from './BackDrop/BackDrop'
 
+// CREDIT: https://www.youtube.com/watch?v=l6nmysZKHFU 
+
 class App extends Component {
 
   state = {
